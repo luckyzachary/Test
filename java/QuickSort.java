@@ -1,0 +1,1 @@
+import java.util.Scanner;public class QuickSort {	public static int[] QuickSort(int...array) {		for (int i = 0; i < array.length; i++) {					}		return ;	}	public static void main(String[] args) {				int count = input.Scanner(System.in);	}}
